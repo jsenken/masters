@@ -1,0 +1,37 @@
+body {
+    background-color: #006746d3;
+    font-family: "Charm", cursive;
+    font-weight: bold;
+  }
+  
+  .container {
+    width: 100%;
+    text-align: center;
+    margin-left: 10px;
+    padding: 0px;
+  }
+  
+  .row {
+    text-align: center;
+  }
+  
+  .h2 {
+    text-align: center;
+  }
+  
+  .homeTitle {
+    color: yellow;
+    font-size: 175px;
+  }
+  
+  .fButton {
+    margin: 2px;
+    width: 300px;
+  }
+  
+  .homeFlag {
+    width: 500px;
+    height: 250px;
+    border-radius: 60%;
+  }
+  

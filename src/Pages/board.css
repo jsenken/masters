@@ -1,0 +1,118 @@
+body {
+    background-color: #006746d3;
+  }
+  
+  .container {
+    width: 100%;
+    text-align: center;
+    margin-left: 10px;
+  }
+  
+  .famContainer {
+    font-family: "Roboto", sans-serif;
+  }
+  
+  .row {
+    text-align: center;
+  }
+  
+  .h2 {
+    text-align: center;
+  }
+  
+  #finished {
+    background-color: gray;
+  }
+  
+  .Evantitle {
+    color: orange;
+  }
+  .Evantitle:hover {
+    background-color: orange;
+    color: whitesmoke;
+  }
+  
+  .Kattitle {
+    color: rgb(0, 195, 255);
+  }
+  .Kattitle:hover {
+    background-color: rgb(0, 195, 255);
+    color: whitesmoke;
+  }
+  
+  .Lainetitle {
+    color: purple;
+  }
+  .Lainetitle:hover {
+    background-color: purple;
+    color: whitesmoke;
+  }
+  
+  .Emmatitle {
+    color: pink;
+  }
+  .Emmatitle:hover {
+    background-color: pink;
+    color: whitesmoke;
+  }
+  
+  .Poptitle {
+    color: navy;
+  }
+  .Poptitle:hover {
+    background-color: navy;
+    color: whitesmoke;
+  }
+  
+  .Andretitle {
+    color: lightseagreen;
+  }
+  .Andretitle:hover {
+    background-color: lightseagreen;
+    color: whitesmoke;
+  }
+  
+  .Lilititle {
+    color: red;
+  }
+  .Lilititle:hover {
+    background-color: red;
+    color: whitesmoke;
+  }
+  
+  .Jordantitle {
+    color: goldenrod;
+  }
+  .Jordantitle:hover {
+    background-color: goldenrod;
+    color: whitesmoke;
+  }
+  
+  .Grandpatitle {
+    color: green;
+  }
+  .Grandpatitle:hover {
+    background-color: green;
+    color: whitesmoke;
+  }
+  
+  .Mogatitle {
+    color: lightgreen;
+  }
+  .Mogatitle:hover {
+    background-color: lightgreen;
+    color: whitesmoke;
+  }
+  
+  .name {
+    background-color: #fdfdfe;
+    width: 100%;
+    margin: 0px;
+    padding: 0px;
+    font-weight: bolder;
+  }
+  
+  input {
+      width: 40px;
+      text-align: center;
+  }
